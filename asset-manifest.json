@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e2651b9a.js",
+    "static/media/thirdPhone.jpg": "/static/media/thirdPhone.6716d573bf55efb5adca.jpg",
+    "static/media/firstPhone.jpg": "/static/media/firstPhone.00eda6ac7efcd037ba80.jpg",
+    "static/media/secondPhone.jpg": "/static/media/secondPhone.2382277f4fbc200d7832.jpg",
+    "index.html": "/index.html",
+    "main.e2651b9a.js.map": "/static/js/main.e2651b9a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2651b9a.js"
+  ]
+}
